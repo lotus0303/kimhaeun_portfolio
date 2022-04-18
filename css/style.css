@@ -1277,6 +1277,9 @@ margin-bottom: 80px;}
 	background:#b2b9f9;
     border: none;
 }
+.change a:hover{
+    color: #606060;
+}
 .bt{
     margin: 0;
 }
